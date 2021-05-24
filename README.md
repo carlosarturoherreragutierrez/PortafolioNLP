@@ -5,7 +5,7 @@ En este espacio podrá encontrar los trabajos de Procesamiento de lenguaje natur
 
 #Proyectos
 
-#[Taller 2](https://github.com/carlosarturoherreragutierrez/NLP/Taller2.ipynb): Adquisición de textos
+#[Taller 2](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/Taller2.ipynb): Adquisición de textos
 •	Lectura de archivos con sentencias en phyton 
 •	Conteo de palabras/páginas
 •	Uso de librería re
