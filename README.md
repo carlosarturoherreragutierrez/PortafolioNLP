@@ -3,10 +3,16 @@ Mi nombre es Carlos Arturo Herrera Gutiérrez, soy Ingeniero de sistemas y Admin
 
 En este espacio podrá encontrar los trabajos de Procesamiento de lenguaje natural (NLP) adelantados durante mi especialización de Analítica estratégica de datos, en cada uno de los links encontrará casos prácticos que permiten conocer todo lo que se puede realizar con el análisis de texto
 
-Proyectos
+#Proyectos
 
-[Taller 1](): Adquisición de textos
+#[Taller 2](): Adquisición de textos
 •	Lectura de archivos con sentencias en phyton 
 •	Conteo de palabras/páginas
 •	Uso de librería re
+
+#[Taller 3]:Web Scraping
+•	Realizar web scraping a páginas de Wikipedia relacionadas con temas de animales
+•	Uso de la librería urllib.request
+•	Extracción de encabezados de páginas y los textos que están en las etiquetas de negrilla de las páginas 
+•	Uso de regex
 
