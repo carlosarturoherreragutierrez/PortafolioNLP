@@ -7,16 +7,17 @@ En este espacio podrá encontrar los trabajos de Procesamiento de lenguaje natur
 
 #Proyectos
 
-#[Taller 2](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/Taller2.ipynb): Adquisición de textos
+#[Taller 2](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/Taller2.ipynb): **Adquisición de textos**
 
-•	Lectura de archivos con sentencias en phyton 
+  •	Lectura de archivos con sentencias en phyton 
+  
+  •	Conteo de palabras/páginas
+    
+  •	Uso de librería re
 
-•	Conteo de palabras/páginas
-
-•	Uso de librería re
 
 
-#[Taller 3](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/Taller3sol.ipynb):Web Scraping
+#[Taller 3](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/Taller3sol.ipynb):**Web Scraping**
 
 •	Realizar web scraping a páginas de Wikipedia relacionadas con temas de animales
 
@@ -27,7 +28,7 @@ En este espacio podrá encontrar los trabajos de Procesamiento de lenguaje natur
 •	Uso de regex
 
 
-#[Taller 4](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/Taller4Sol.ipynb): Preprocesamiento de textos y Featuring Engineering
+#[Taller 4](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/Taller4Sol.ipynb): **Preprocesamiento de textos y Featuring Engineering**
 
 •	Lectura de archivo usando pandas
 
@@ -42,7 +43,7 @@ En este espacio podrá encontrar los trabajos de Procesamiento de lenguaje natur
 •	Creación de bolsa de palabras (BoW)
 
 
-#[Taller 5](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/taller5Sol.ipynb): TF – IDF
+#[Taller 5](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/taller5Sol.ipynb): **TF – IDF**
 
 •	Preprocesamiento: Limpieza de textos, Tokenización, Stemming, eliminación de palabras vacias
 
@@ -53,7 +54,7 @@ En este espacio podrá encontrar los trabajos de Procesamiento de lenguaje natur
 •	Cálculo de la distancia del Coseno utilizando la función cosine_distances
 
 
-#[Taller 7](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/Taller7_sol.ipynb): Clasificación de textos
+#[Taller 7](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/Taller7_sol.ipynb): **Clasificación de textos**
 
 •	Separación de datos en archivo de entrenamiento y prueba
 
@@ -68,7 +69,7 @@ En este espacio podrá encontrar los trabajos de Procesamiento de lenguaje natur
 •	Palabras más representativas de las variable de clasificación de los datos
 
 
-#[Taller 8](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/Taller8Sol.ipynb): Agrupación de textos
+#[Taller 8](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/Taller8Sol.ipynb): **Agrupación de textos**
 
 •	Método del codo para determinar K (número de particiones)
 
@@ -79,18 +80,18 @@ En este espacio podrá encontrar los trabajos de Procesamiento de lenguaje natur
 •	Visualización usando PCA
 
 
-#[Taller 9](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/Taller9Sol.ipynb): Modelado de Temas
+#[Taller 9](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/Taller9Sol.ipynb): **Modelado de Temas**
 
 •	Implementación del modelo LDA
 
 •	Visualización del modelo LDA
 
 
-#[Taller 10](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/Taller10sol.ipynb): Nube de palabras
+#[Taller 10](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/Taller10sol.ipynb): **Nube de palabras**
 
 •	Creación de Nube de palabras
 
-#[Taller 11](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/Taller11Sol.ipynb): Twitter
+#[Taller 11](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/Taller11Sol.ipynb): **Twitter**
 
 •	Extracción de Tuis de Twitter de la API utilizando librería tweepy
 
