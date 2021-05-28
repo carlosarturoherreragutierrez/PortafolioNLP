@@ -8,23 +8,39 @@ En este espacio podrá encontrar los trabajos de Procesamiento de lenguaje natur
 #Proyectos
 
 #[Taller 2](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/Taller2.ipynb): Adquisición de textos
-Lectura de archivos con sentencias en phyton 
+
+Lectura de archivos con sentencias en phyton
+
 Conteo de palabras/páginas
+
 Uso de librería re
 
+
 #[Taller 3](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/Taller3sol.ipynb):Web Scraping
+
 •	Realizar web scraping a páginas de Wikipedia relacionadas con temas de animales
+
 •	Uso de la librería urllib.request
+
 •	Extracción de encabezados de páginas y los textos que están en las etiquetas de negrilla de las páginas 
+
 •	Uso de regex
 
+
 #[Taller 4](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/Taller4Sol.ipynb): Preprocesamiento de textos y Featuring Engineering
+
 •	Lectura de archivo usando pandas
+
 •	Preprocesamiento de texto: Limpieza de texto, conversión a minúsculas
+
 •	Eliminación de palabras vacías utilizando librería stopwords
+
 •	Ordenamiento y Extracción de palabras de mayor frecuencia
+
 •	Representación vectorial utilizando CountVectorizer
+
 •	Creación de bolsa de palabras (BoW)
+
 
 #[Taller 5](https://github.com/carlosarturoherreragutierrez/NLP/blob/dddcadfbf543e96b5fd0de9ddafd0a2524ce0b8f/taller5Sol.ipynb): TF – IDF
 •	Preprocesamiento: Limpieza de textos, Tokenización, Stemming, eliminación de palabras vacias
